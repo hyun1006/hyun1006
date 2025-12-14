@@ -7,16 +7,6 @@
 <br>
 <br>
 
-## 📝 Introduction
-
-네, **1번(수식형) 스타일**의 직관적인 구조는 유지하되, **내용을 더 구체적이고 전문적으로 보강**했습니다.
-
-단순히 "경험했다"는 수준을 넘어, 각 분야에서 **어떤 기술을 깊이 있게 다뤘는지** 명확히 보여주는 버전입니다. 포트폴리오의 `Introduction` 섹션에 그대로 복사해서 사용하시면 됩니다.
-
----
-
-### 📋 복사하여 사용하세요
-
 **📝 Introduction**
 
 **🚀 Logic Design $\times$ Process Physics = High-Reliability System**
