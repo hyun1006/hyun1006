@@ -44,22 +44,22 @@
 ### 🏛️ RISC-V & CPU Architecture
 | Project & Description | Tech Stack | Links |
 | :--- | :--- | :---: |
-| **🚀 SystemVerilog RISC-V RV32I Multi-Cycle CPU**<br>• 32-bit RISC-V Multi-Cycle Core 설계 및 **AMBA APB** 버스 인터페이스 구축<br>• UART, GPIO 등 주변장치 통합 제어<br>• FSM 기반 Control Unit 및 Datapath 최적화 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![AMBA APB](https://img.shields.io/badge/-AMBA_APB-critical) | [👉 Repo](https://github.com/hyun1006/RISC-V_RV32I_CPU_Multi-Cycle_-_AMBA_APB_Peripheral) |
-| **🏛️ RISC-V RV32I Single-Cycle CPU**<br>• RISC-V 아키텍처의 기초가 되는 Single-Cycle CPU 구현<br>• 명령어 처리 Datapath 및 Control Unit 설계<br>• 기본 명령어 셋 시뮬레이션 검증 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C) | [👉 Repo](https://github.com/hyun1006/RISC-V_RV32I_CPU_Single-Cycle) |
+| **🚀 SystemVerilog RISC-V RV32I Multi-Cycle CPU**<br>• 32-bit RISC-V Multi-Cycle Core 설계 및 **AMBA APB** 버스 인터페이스 구축<br>• UART, GPIO 등 주변장치 통합 제어<br>• FSM 기반 Control Unit 및 Datapath 최적화 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![AMBA APB](https://img.shields.io/badge/-AMBA_APB-critical) | [👉 GITHUB](https://github.com/hyun1006/RISC-V_RV32I_CPU_Multi-Cycle_-_AMBA_APB_Peripheral) |
+| **🏛️ RISC-V RV32I Single-Cycle CPU**<br>• RISC-V 아키텍처의 기초가 되는 Single-Cycle CPU 구현<br>• 명령어 처리 Datapath 및 Control Unit 설계<br>• 기본 명령어 셋 시뮬레이션 검증 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C) | [👉 GITHUB](https://github.com/hyun1006/RISC-V_RV32I_CPU_Single-Cycle) |
 
 ### ⚡ FPGA & Video Processing
 | Project & Description | Tech Stack | Links |
 | :--- | :--- | :---: |
-| **🎲 Real-time VGA Processing & Dice Game SoC**<br>• VGA 인터페이스 기반 실시간 영상 처리 및 다이스 게임 구현<br>• 실시간 Red Color 검출 및 픽셀 면적 계산 알고리즘 하드웨어화<br>• Master-Slave 아키텍처 설계 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![FPGA](https://img.shields.io/badge/-FPGA-red) | [👉 Repo](https://github.com/hyun1006/Real-time-VGA-Processing-Filter-Dice-Game) |
-| **🖼️ Line Buffer Scaler**<br>• **Line Buffer**를 활용한 효율적인 하드웨어 이미지 스케일러 설계<br>• 스트림 데이터 처리를 통한 메모리 사용 최적화<br>• 영상 크기 변환 로직 구현 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![Image Processing](https://img.shields.io/badge/-Processing-success) | [👉 Repo](https://github.com/hyun1006/LineBuffer_Scaler) |
+| **🎲 Real-time VGA Processing & Dice Game SoC**<br>• VGA 인터페이스 기반 실시간 영상 처리 및 다이스 게임 구현<br>• 실시간 Red Color 검출 및 픽셀 면적 계산 알고리즘 하드웨어화<br>• Master-Slave 아키텍처 설계 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![FPGA](https://img.shields.io/badge/-FPGA-red) | [👉 GITHUB](https://github.com/hyun1006/Real-time-VGA-Processing-Filter-Dice-Game) |
+| **🖼️ Line Buffer Scaler**<br>• **Line Buffer**를 활용한 효율적인 하드웨어 이미지 스케일러 설계<br>• 스트림 데이터 처리를 통한 메모리 사용 최적화<br>• 영상 크기 변환 로직 구현 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![Image Processing](https://img.shields.io/badge/-Processing-success) | [👉 GITHUB](https://github.com/hyun1006/LineBuffer_Scaler) |
 
 ### 🔍 Verification & Embedded Systems
 | Project & Description | Tech Stack | Links |
 | :--- | :--- | :---: |
-| **🔎 UART Verification (VIP)**<br>• UART 통신 신뢰성 검증을 위한 **Verification Environment** 구축<br>• Testbench 및 VIP(Verification IP) 개념 적용<br>• 다양한 전송 시나리오에 대한 프로토콜 검증 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![Verification](https://img.shields.io/badge/-Verification-violet) | [👉 Repo](https://github.com/hyun1006/UART_Verification) |
-| **⏱️ UART Watch & Stopwatch with Sensors**<br>• UART 통신, 시계/스톱워치, 센서 제어(HC-SR04, DHT-11) 통합 시스템<br>• 하드웨어-소프트웨어 인터페이스 제어 실습<br>• 센서 데이터 처리 및 타이밍 로직 구현 | ![Verilog](https://img.shields.io/badge/-Verilog-555555)<br>![Sensors](https://img.shields.io/badge/-Sensors-orange) | [👉 Repo](https://github.com/hyun1006/UART_Watch_Stopwatch_HC-SR04_DHT-11) |
-| **⌚ Digital Watch & Stopwatch**<br>• 디지털 논리 회로 설계의 기초인 시계 및 정밀 스톱워치 구현<br>• FND Dynamic Scanning 및 Debouncing 로직 적용<br>• 계층적 모듈 설계를 통한 시스템 구조화 | ![Verilog](https://img.shields.io/badge/-Verilog-555555) | [👉 Repo](https://github.com/hyun1006/Watch_Stopwatch) |
-| **🛠️ Github Auto Uploader**<br>• Python을 활용한 깃허브 업로드 자동화 스크립트<br>• 개발 워크플로우 효율성 증대 도구 | ![Python](https://img.shields.io/badge/-Python-3776AB) | [👉 Repo](https://github.com/hyun1006/Github_AutoUploader) |
+| **🔎 UART Verification**<br>• UART 통신 신뢰성 검증을 위한 **Verification Environment** 구축<br>• Testbench 기반 검증 적용<br>• 다양한 전송 시나리오에 대한 프로토콜 검증 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-00599C)<br>![Verification](https://img.shields.io/badge/-Verification-violet) | [👉 GITHUB](https://github.com/hyun1006/UART_Verification) |
+| **⏱️ UART Watch & Stopwatch with Sensors**<br>• UART 통신, 시계/스톱워치, 센서 제어(HC-SR04, DHT-11) 통합 시스템<br>• 하드웨어-소프트웨어 인터페이스 제어 실습<br>• 센서 데이터 처리 및 타이밍 로직 구현 | ![Verilog](https://img.shields.io/badge/-Verilog-555555)<br>![Sensors](https://img.shields.io/badge/-Sensors-orange) | [👉 GITHUB](https://github.com/hyun1006/UART_Watch_Stopwatch_HC-SR04_DHT-11) |
+| **⌚ Digital Watch & Stopwatch**<br>• 디지털 논리 회로 설계의 기초인 시계 및 정밀 스톱워치 구현<br>• FND Control 및 button Debounce 로직 적용<br>• 계층적 모듈 설계를 통한 시스템 구조화 | ![Verilog](https://img.shields.io/badge/-Verilog-555555) | [👉 GITHUB](https://github.com/hyun1006/Watch_Stopwatch) |
+| **🛠️ Github Auto Uploader**<br>• Python을 활용한 깃허브 업로드 자동화 스크립트<br>• 개발 워크플로우 효율성 증대 도구 | ![Python](https://img.shields.io/badge/-Python-3776AB) | [👉 GITHUB](https://github.com/hyun1006/Github_AutoUploader) |
 
 <br>
 
@@ -81,7 +81,7 @@
 ## 📂 Other Projects & Research
 > **📄 압력 변화와 열처리 과정이 박막에 미치는 영향**
 > * **설명**: 공정 압력(유량)에 따른 증착률 및 비저항 분석 연구
-> * **자료 보기**: [👉 PDF 보고서 다운로드](./files/반도체공정및실습캡스톤_보고서.pdf)
+> * **자료 보기**: [👉 PDF 보고서 다운로드](./files/Semiconductor_Process_and_Practice_Capstone_Report.pdf)
 
 <br>
 
