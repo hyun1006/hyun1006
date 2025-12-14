@@ -24,18 +24,14 @@
 <br>
 
 ## 🛠️ Tech Stacks
-### Languages
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=flat&logo=systemverilog&logoColor=white&color=00599C)
-![Verilog](https://img.shields.io/badge/Verilog-181717?style=flat&logo=verilog&logoColor=white&color=555555)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&color=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB)
-![MATLAB](https://img.shields.io/badge/MATLAB(Basic)-e36414?style=flat&logo=mathworks&logoColor=white&color=orange)
 
-### Tools & IDE
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?style=flat&logo=xilinx&logoColor=white&color=red)
-![Vitis](https://img.shields.io/badge/Xilinx%20Vitis-orange?style=flat&logo=xilinx&logoColor=white&color=orange)
-![EDA Playground](https://img.shields.io/badge/EDA%20Playground-9C27B0?style=flat&logo=edaplayground&logoColor=white&color=9C27B0)
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=systemverilog&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-555555?style=for-the-badge&logo=verilog&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e36414?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **EDA & Tools** | ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white) ![Vitis](https://img.shields.io/badge/Xilinx%20Vitis-F58220?style=for-the-badge&logo=xilinx&logoColor=white) ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-9C27B0?style=for-the-badge&logo=edaplayground&logoColor=white) |
+| **Architecture** | ![RISC-V](https://img.shields.io/badge/RISC--V-RV32I-483D8B?style=for-the-badge&logo=riscv&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-Xilinx-B22222?style=for-the-badge&logo=microchip&logoColor=white) |
+| **Protocols** | ![AMBA APB](https://img.shields.io/badge/AMBA-APB-000000?style=for-the-badge) ![UART](https://img.shields.io/badge/Protocol-UART-gray?style=for-the-badge) ![I2C](https://img.shields.io/badge/Protocol-I2C-gray?style=for-the-badge) ![VGA](https://img.shields.io/badge/Interface-VGA-blue?style=for-the-badge) |
+| **Sensors** | ![HC-SR04](https://img.shields.io/badge/Sensor-HC--SR04-success?style=for-the-badge) ![DHT-11](https://img.shields.io/badge/Sensor-DHT--11-success?style=for-the-badge) |
 
 <br>
 
